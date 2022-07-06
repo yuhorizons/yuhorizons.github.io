@@ -40,8 +40,6 @@
 34. In which year was table tennis introduced to the summer Olympics? 1988
 35. Which is the sunniest province in Canada? Manitoba
 
-Answer: Winnipeg.
-
 ## notes  
 *  
 
