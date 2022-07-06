@@ -20,6 +20,15 @@
 14. Which three fresh fruits outsell all other fruits during the summer in America? Watermelon, tomatoes and peaches
 15. Which month of the year is National Ice Cream Month? July (In 1984, President Ronald Reagan designated July as National Ice Cream Month)
 16. How did the popular summertime game 'Frisbee' get its name? It was the name of a bakery, The Frisbee Pie Bakery. The Frisbee's history began in Bridgeport, Conn., where Yale University students played catch with pie plates from the local Frisbie Baking Co. The story goes that they used to yell, "Frisbie!" to warn others walking nearby to look out for the airborne plates.
+17. Which city is the Slurpee capital of the world? Winnipeg. Manitoba was crowned the Slurpee Capital of the World for the twentieth year in a row in 2019. 7-Eleven stores across Winnipeg sell an average of 188,833 Slurpee drinks per month. The rest of Canada sells an average of 179,700 per month, which makes Winnipeggers the world leader of Slurpee sales
+18. Which holiday unofficially implies the end of the summer season?  Labour Day
+19. Which is the most sold item in summer in America? Swimsuits
+20. In southern England, where do people assemble to see the summer solstice? Stonehenge
+21. Where does the Largest bikini parade took place? Huludao City, Liaoning, China.
+22. Which flower thrives in the sun because it loves the sun? Sunflower
+23. Which insects are the most widespread in the summer? Mosquitoes
+
+Answer: Winnipeg.
 
 ## notes  
 *  
