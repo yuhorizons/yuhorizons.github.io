@@ -21,6 +21,7 @@
 15. Take Hwy 26 to Blue Mountain
 
 ## notes  
+*  Killbear Provincial Park (Killbear Tree at Sunset Rock, Harold Point Rocks - Cliff jumping, Lighthouse Point Trail, Twin Points Trail) 
 *  Science North
 *  Big Nickel
 *  Sudbury Kartways
