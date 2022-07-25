@@ -1,16 +1,16 @@
 # Killbear Provincial Park  
 
 ## info  
-* Killbear Tree at Sunset Rock
-* Harold Point Rocks - Cliff jumping
-* Lighthouse Point Trail
-* Twin Points Trail
+* 
 
 ## steps  
 1. 
 
 ## notes  
-*  
+*  Killbear Tree at Sunset Rock
+*  Harold Point Rocks - Cliff jumping
+*  Lighthouse Point Trail
+*  Twin Points Trail
 
 ## based on  
 *  https://avrextravel.com/killbear-provincial-park/
