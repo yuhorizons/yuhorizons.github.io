@@ -34,3 +34,4 @@
 *  Road trip leg 2 map https://www.google.com/maps/dir/Boston+Common,+115+Boylston+St,+Boston,+MA+02116,+United+States/222+Montgomery+Street,+Jersey+City,+NJ,+USA/@41.5324409,-73.6757453,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e3709dbc6e232b:0x3f8683fc7ba94f04!2m2!1d-71.0657256!2d42.3550897!1m5!1m1!1s0x89c250b10a0956ed:0xf9db74a5e4ca8d9d!2m2!1d-74.0446513!2d40.7178521!3e0
 *  Travel video https://www.youtube.com/watch?v=VmCDvQecjA8 https://www.youtube.com/watch?v=T1NTpwW4QVg
 *  Montreal https://www.youtube.com/watch?v=poe2cLKw9ko
+*  Montreal itenary https://www.google.com/maps/d/u/0/edit?mid=1Lzu4y68lHMBwhHi6runxhgvD2VHbk-c&usp=sharing
