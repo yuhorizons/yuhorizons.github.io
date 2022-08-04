@@ -35,3 +35,7 @@
 *  Travel video https://www.youtube.com/watch?v=VmCDvQecjA8 https://www.youtube.com/watch?v=T1NTpwW4QVg
 *  Montreal https://www.youtube.com/watch?v=poe2cLKw9ko
 *  Montreal itenary https://www.google.com/maps/d/u/0/edit?mid=1Lzu4y68lHMBwhHi6runxhgvD2VHbk-c&usp=sharing
+*  Freedom Trail:  https://www.thefreedomtrail.org/visit/maps
+*  Boston Day 1 itenary: https://www.google.com/maps/d/u/0/edit?mid=1czN9kr7-H0ucJkMzOA4hp2Y5Eg7mNDM&usp=sharing
+*  Boston Day 2 itenary: 
+*  Boston Day 3 itenary:  
