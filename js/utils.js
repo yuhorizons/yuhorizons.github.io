@@ -18,8 +18,10 @@ function linkify(str) {
 
 function linkify2(inputText) {
     //URLs starting with http://, https://, or ftp://
+    var newText = inputText.replaceAll('_','asdf1234');
     var replacePattern1 = /(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]+\.[^\s]{2,}|www\.[a-zA-Z0-9]+\.[^\s]{2,})/gi;
-    var replacedText = inputText.replace(replacePattern1, '<a href="$1" target="_blank">$1</a>');
+    var replacedText = newText.replace(replacePattern1, '<a href="$1" target="_blank">$1</a>');
+    replacedText = replacedText.replaceAll('asdf1234','_');
 
     //URLs starting with www. (without // before it, or it'd re-link the ones done above)
     //var replacePattern2 = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
