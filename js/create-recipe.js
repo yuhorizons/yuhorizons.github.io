@@ -75,6 +75,7 @@ $(document).ready(function() {
         
         // place the html inside its section
         $('#' + id).html(section);
+        document.getElementById(id).innerHTML = document.getElementById(id).innerHTML.replace(/<em>|<\/em>/g,"_");
         //$('#' + id).html($('#' + id).text().replaceAll("asdf1234", "_"));
       }
 
