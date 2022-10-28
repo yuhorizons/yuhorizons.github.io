@@ -75,7 +75,7 @@ $(document).ready(function() {
         
         // place the html inside its section
         $('#' + id).html(section);
-        $('#' + id).text($('#' + id).text().replaceAll("asdf1234", "_"));
+        //$('#' + id).html($('#' + id).text().replaceAll("asdf1234", "_"));
       }
 
       // a few more bits to nicen things up...
