@@ -4,7 +4,8 @@
 * 
 
 ## steps  
-1. 
+1. Markham->Montreal->Fredericton->Halifax
+2. Halifax->Quebec City->Mount-Tremblant>Markham
 
 ## notes  
 *  Markham->Montreal (6 hrs)
