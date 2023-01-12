@@ -39,7 +39,7 @@
 *  Halifax->Quebec City (10 hrs)
 *  Montmorency Falls
 *  Chutes de la Chaudière
-*  Quebec City(1 night stay)
+*  Quebec City (1 night stay)
 *  *
 *  Quebec City->Mount-Tremblant (4 hrs)
 *  Mount-Tremblant village (1 night stay)
