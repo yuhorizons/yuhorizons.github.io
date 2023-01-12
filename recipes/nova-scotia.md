@@ -11,13 +11,13 @@
 *  The Big Apple
 *  Kingston
 *  Montreal (1 night hotel)
-*  
+*  *
 *  Montreal->Fredericton (7 hrs)
 *  Quebec City
 *  Edmundston 
 *  Grand Falls
 *  Florenceville-Bristol (1 night hotel)
-*  
+*  *
 *  Fredericton->Halifax (6 hrs)
 *  Worlds longest covered bridge
 *  Fredericton
@@ -30,12 +30,12 @@
 *  Victoria Park
 *  Burntcoat Head Park
 *  Halifax (4 night stay)
-*  
+*  *
 *  Halifax->Quebec City (10 hrs)
 *  Montmorency Falls
 *  Chutes de la Chaudière
 *  Quebec City(1 night stay)
-*  
+*  *
 *  Quebec City->Mount-Tremblant (4 hrs)
 *  Mount-Tremblant village (1 night stay)
 
