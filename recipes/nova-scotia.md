@@ -30,6 +30,12 @@
 *  Burntcoat Head Park
 *  Halifax (4 night stay)
 *  *
+*  Halifax - Citadel
+*  Halifax - Peggy's Cove
+*  Halifax - The Bicycle Thief (Drunken Lamps)
+*  Halifax - Lunenburg
+*  Halifax - Cabot Trail
+*  *
 *  Halifax->Quebec City (10 hrs)
 *  Montmorency Falls
 *  Chutes de la Chaudière
