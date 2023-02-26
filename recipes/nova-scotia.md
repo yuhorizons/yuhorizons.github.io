@@ -8,12 +8,13 @@
 2. Halifax->Quebec City->Mount-Tremblant>Markham
 
 ## notes  
-*  Markham->Montreal (6 hrs)
+*  Markham->QC (7.5 hrs)
 *  The Big Apple
 *  Kingston
-*  Montreal (1 night hotel)
+*  Montreal (lunch-Nouilles de Lan Zhou: 1006 St Laurent Blvd)
+*  Quebec City (1 night hotel)
 *  *
-*  Montreal->Fredericton (7 hrs)
+*  QC->Fredericton (7 hrs)
 *  Quebec City
 *  Edmundston 
 *  Grand Falls
