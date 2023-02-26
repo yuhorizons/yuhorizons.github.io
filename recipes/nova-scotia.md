@@ -9,8 +9,8 @@
 
 ## notes  
 *  Markham->QC (7.5 hrs)
-*  The Big Apple
-*  Kingston
+*  The Big Apple (Buy Apple Pie)
+*  Kingston (Queen's University)
 *  Montreal (lunch-Nouilles de Lan Zhou: 1006 St Laurent Blvd)
 *  Quebec City (1 night hotel)
 *  *
