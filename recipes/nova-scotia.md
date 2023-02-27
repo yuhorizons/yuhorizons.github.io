@@ -8,11 +8,11 @@
 2. Halifax->Quebec City->Mount-Tremblant>Markham
 
 ## notes  
-*  Markham->QC (7.5 hrs)
-*  The Big Apple (Buy Apple Pie)
-*  Kingston (Queen's University)
-*  Montreal (lunch-Nouilles de Lan Zhou: 1006 St Laurent Blvd)
-*  Quebec City (1 night hotel)
+*  Markham->QC (7.5 hrs) 7am start
+*  The Big Apple (Buy Apple Pie) 8:30am
+*  Kingston (Queen's University) 10am
+*  Montreal (lunch-Nouilles de Lan Zhou: 1006 St Laurent Blvd) 2pm
+*  Quebec City (1 night hotel) 5pm
 *  *
 *  QC->Fredericton (7 hrs)
 *  Quebec City
