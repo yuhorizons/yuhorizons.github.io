@@ -49,7 +49,7 @@
 * Get lost Gor Gor.  Stop bothering me.
 * 
 * Catherine:
-* Edwin stop been sto rude.
+* Edwin stop been so rude.
 * 
 * Edwin:
 * Leave me alone.
