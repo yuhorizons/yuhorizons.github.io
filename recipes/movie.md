@@ -229,7 +229,7 @@
 * Go and checkout the house Marv.
 * ---
 * Marv:
-* Now.
+* Like, right now?
 * ---
 * Harry:
 * Yes now!
@@ -251,7 +251,7 @@
 * I don't know who is in there.  But someone just got blown away.
 * ---
 * Harry:
-* Hahr???
+* Huh???
 * ---
 * Marv:
 * Somebody beat us to the job.  There are in there.  Two of them.  There was arguing and one of them blew the other one away.
@@ -266,7 +266,7 @@
 * Snakes?  Snakes...Snakes...snakes.  I don't know no snakes.
 * ---
 * Marv:
-* Lets get otta here.
+* Lets get otta here. Im scared.
 * ---
 * Harry: 
 * Alright, lets come back later.
@@ -285,13 +285,13 @@
 * ================
 * ---
 * Marv:
-* I don't like it hairy.  He is still up.  Maybe we should wait until later.
+* I don't like it Harry.  He is still up.  Maybe we should wait until later.
 * ---
 * Harry:
 * Marv, Marv. he is home alone.  What harm can he do?!
 * ---
 * Marv:
-* Yeah, you are right. Sorry!
+* Yeah, you are right Harry. Sorry!
 * ---
 * Harry:
 * Yes, it makes sense to break in now.  Crowbars up!
