@@ -33,11 +33,16 @@
 * Mom:
 * Where should we go?
 * ---
+* Catherine:
+* I wanna go to Disneyland and ride on every existing ride there.
 * Dad:
 * Well, when my Dad first came to Canada he visited Nova Scotia.  Wouldn't it be nice to see the east coast?!
 * ---
 * Mom:
 * That sounds like a great idea.
+* ---
+* Catherine:
+* No, thats too boring nobody wants to go there. Only old people like it. For instace: YOU!
 * ---
 * Edwin:
 * East coast is boring.  Nothing to see except water!  I hate road trips.
@@ -49,7 +54,7 @@
 * Get lost Gor Gor.  Stop bothering me.
 * ---
 * Catherine:
-* Edwin stop been such a bozo. Just eat your dinner. 
+* Edwin stop been such a bozo. Just eat your dinner. I have an idea, how about YOU get lost.
 * ---
 * Edwin:
 * Leave me alone.
@@ -78,7 +83,7 @@
 * Catherine: Mom, where is my hat.  I can't find it. Im always losing it.
 * Dad: Honey! where is my phone. 
 * Mom: I need to pack here guys. Just look for it yourselves.
-* Catherine: But mommy you always find the stuff in seconds.
+* Catherine: But mommy you always find the stuff in seconds. We need you.
 * ---
 * Dad:  
 * Are we all ready!  Lets go go go.  Everyone get in the car.
@@ -89,7 +94,7 @@
 * Is everyone exited for the road trip?
 * ---
 * Everyone:  
-* Yup!
+* Yup! We are super exited!
 * ---
 * Dad:  
 * Ok, Deborah, can you please do a final head count before we go.
@@ -101,6 +106,8 @@
 * Kevin:
 * Ok, lets go!
 * ---
+* Catherine:
+* YAY!
 * DIR-Car drives off.
 * ---
 * ---
@@ -136,25 +143,25 @@
 * Who is it?
 * ---
 * Pizza deliverer:
-* It's Pizza delivery.  I have your deluxe pizza.
+* It's your Pizza delivery.  I have your deluxe pizza warm and ready!
 * ---
 * Movie clip:
 * Leave it on the door step and get the h*ll out of here!
 * ---
 * Pizza deliverer:
-* Ookay.....Well, what about the money?
+* Uhm ookay (wispering: rude).....Well, what about the money you are suposed to give me?
 * ---
 * Movie clip:
 * What money?
 * ---
 * Pizza deliverer:
-* Welllll, you'll have to pay of the pizza SIR!
+* Welllll, you'll have to pay of the pizza SIR in order to get it!
 * ---
 * Movie clip:
 * How much do I owe you?
 * ---
 * Pizza deliverer:
-* Nineteen Fifty
+* Nineteen Fifty is your total.
 * ---
 * DIR-Edwin throws out $20 through the door.
 * ---
@@ -165,10 +172,11 @@
 * Keep the change you filthy animal!
 * ---
 * Pizza deliverer:
-* Whisper Cheapscape!
+* DIR- Whisper
+* Cheapscape!
 * ---
 * Movie clip:
-* Hey I'm going to give you to a count of 10 to get your ass off my property. 1, 2, 10.  
+* Hey I'm going to give you to a count of 10 to get your *ss off my property. 1, 2, 10.  
 * ---
 * Pizza deliverer:
 * DIR-Scared and knocks on garbage can and runs to car.
