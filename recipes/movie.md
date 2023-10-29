@@ -174,6 +174,39 @@
 * DIR-Scared and knocks on garbage can and runs to car.
 * ---
 * ---
+* Somthing is missing
+* =================================
+* ---
+* Deborah:
+* I have a strange feeling.
+* ---
+* Kevin:
+* What is it?
+* ---
+* Deborah:
+* Did we forget something? Did we shut off the stove?
+* ---
+* Kevin:
+* Yes.
+* ---
+* Deborah:
+* Did you shut the front door?
+* ---
+* Kevin:
+* Yes.
+* ---
+* Deborah:
+* How about the garage?
+* ---
+* Kevin:
+* Ohhh. It's the garage, I forgot to close the garage.
+* ---
+* Deborah:
+* Uhm... Ok.
+* DIR- Look left. Look right. Look stright.
+* E-D-W-I-N!
+* ---
+* ---
 * Edwin eats pizza and washes dishes
 * =================================
 * DIR-Edwin eats pizza 
