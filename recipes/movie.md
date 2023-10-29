@@ -13,7 +13,7 @@
 * Intro
 * ======
 * Deborah:
-* Honey lets go on a Christmas family road trip.  We have not gone on a vacation for shuch a long time.  Daniel is off to University next year and Edwin is already in High School.  It'll be good for the family.
+* Honey lets go on a Christmas family road trip.  We have not gone on a vacation for such a long time.  Daniel is off to University next year and Edwin is already in High School.  It'll be good for the family.
 * ---
 * Kevin:
 * I suppose so. I've been a contractor for a long time and I have not had much vacation.  But road trips are so tiring.
@@ -40,7 +40,7 @@
 * That sounds like a great idea.
 * ---
 * Edwin:
-* East coast is borning.  Nothing to see except water!  I hate road trips.
+* East coast is boring.  Nothing to see except water!  I hate road trips.
 * ---
 * Daniel:
 * Hurry up and finish your dinner Edwin.  Stop playing around with your food.
@@ -49,7 +49,7 @@
 * Get lost Gor Gor.  Stop bothering me.
 * ---
 * Catherine:
-* Edwin stop been so rude.
+* Edwin stop been such a bozo. Just eat your dinner. 
 * ---
 * Edwin:
 * Leave me alone.
@@ -75,9 +75,10 @@
 * DIR-Alarm going off.  Everyone is frantic but Edwin is still asleep.
 * ---
 * Daniel: Mom, where are my pants.  
-* Catherine: Mom, where is my hat.  
-* Dad: Honey where is my phone.
+* Catherine: Mom, where is my hat.  I can't find it. Im always losing it.
+* Dad: Honey! where is my phone. 
 * Mom: I need to pack here guys. Just look for it yourselves.
+* Catherine: But mommy you always find the stuff in seconds.
 * ---
 * Dad:  
 * Are we all ready!  Lets go go go.  Everyone get in the car.
@@ -88,14 +89,14 @@
 * Is everyone exited for the road trip?
 * ---
 * Everyone:  
-* Yep
+* Yup!
 * ---
 * Dad:  
 * Ok, Deborah, can you please do a final head count before we go.
 * ---
 * Deborah:
-* 1, 2, 3, 4, 5
-* Yep everyone is here!  We are set to go!
+* Ok 1, 2, 3, 4, 5
+* Yup everyone is here!  We are set to go!
 * ---
 * Kevin:
 * Ok, lets go!
