@@ -4,10 +4,7 @@
 * Script
 
 ## steps  
-1. 
-
-## notes  
-*  Intro
+1. Intro
 ======
 Deborah:
 Honey lets go on a Christmas family road trip.  We have not gone on a vacation for shuch a long time.  Daniel is off to University next year and Edwin is already in High School.  It'll be good for us.
@@ -416,6 +413,9 @@ Merry Christmas Everyone!
 
 Merry Christmas!  Family Hug!
 
+
+## notes  
+*  
 
 ## based on  
 *  
