@@ -35,6 +35,7 @@
 * ---
 * Catherine:
 * I wanna go to Disneyland and ride on every existing ride there.
+* ---
 * Dad:
 * Well, when my Dad first came to Canada he visited Nova Scotia.  Wouldn't it be nice to see the east coast?!
 * ---
