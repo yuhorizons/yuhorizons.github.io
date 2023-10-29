@@ -13,19 +13,19 @@
 * Intro
 * ======
 * Deborah:
-* Honey lets go on a Christmas family road trip.  We have not gone on a vacation for shuch a long time.  Daniel is off to University next year and Edwin is already in High School.  It'll be good for us.
+* Honey lets go on a Christmas family road trip.  We have not gone on a vacation for shuch a long time.  Daniel is off to University next year and Edwin is already in High School.  It'll be good for the family.
 * ---
 * Kevin:
-* I suppose so. I've been a contractor and have not had much vacation.  But road trips are so tiring.
+* I suppose so. I've been a contractor for a long time and I have not had much vacation.  But road trips are so tiring.
 * ---
 * Deborah:
-* Well Dan Dan just got his G2 drivers license and he can help with some on the driving.
+* Well Dan Dan just got his G2 drivers license and he can help with some of the driving.
 * ---
 * Kevin:
 * You are right. You are always right. Lets do it!
 * ---
 * Deb:
-* Kids, tomorrow we are going on a Christmas road trip.
+* Kids, tomorrow we are going on a Christmas road trip.  Lets have dinner.
 * ---
 * ---
 * Argument
@@ -34,7 +34,7 @@
 * Where should we go?
 * ---
 * Dad:
-* Well, when my Dad first came to Canada he visited Nova Scotia.  Wouldn't it be nice visit the east coast!
+* Well, when my Dad first came to Canada he visited Nova Scotia.  Wouldn't it be nice to see the east coast?!
 * ---
 * Mom:
 * That sounds like a great idea.
@@ -49,7 +49,7 @@
 * Get lost Gor Gor.  Stop bothering me.
 * ---
 * Catherine:
-* Edwin stop been sto rude.
+* Edwin stop been so rude.
 * ---
 * Edwin:
 * Leave me alone.
@@ -69,8 +69,10 @@
 * Mom:
 * Young man! Go to your room and think about what you just said.  We are leaving early tomorrow morning.
 * ---
-* Morning:
-* Alarm going off.  Everyone is frantic but Edwin is still asleep.
+* ---
+* Morning
+* ========
+* DIR-Alarm going off.  Everyone is frantic but Edwin is still asleep.
 * ---
 * Daniel: Mom, where are my pants.  
 * Catherine: Mom, where is my hat.  
@@ -80,7 +82,7 @@
 * Dad:  
 * Are we all ready!  Lets go go go.  Everyone get in the car.
 * ---
-* Each closing the car door.
+* DIR-Each closing the car door.
 * ---
 * Dad: 
 * Is everyone exited for the road trip?
@@ -93,22 +95,22 @@
 * ---
 * Deborah:
 * 1, 2, 3, 4, 5
-* Yepm everyone is here!  We are set to go!
+* Yep everyone is here!  We are set to go!
 * ---
 * Kevin:
 * Ok, lets go!
 * ---
-* Car drives off.
+* DIR-Car drives off.
 * ---
 * ---
 * Edwin wakes up
 * ==============
 * Edwin:
-* Mom...........Dad
+* Mom...........Dad????
 * ---
 * Edwin:
 * Looks like my family left without me!
-* Yes!  I have the whole house to my self!
+* Yes!  I have the whole house to my self!  Yahoo!
 * ---
 * 1. Jump on bed
 * 2. Running around the house
@@ -118,9 +120,9 @@
 * 6. Order pizza
 * ---
 * Edwin on phone:
-* I would like to order an extra large delux pizza delivered please!
+* I would like to order an extra large deluxe pizza delivered please!
 * ---
-* Edwin watches netflix (Angles of Soul)
+* Edwin watches netflix (Angles)
 * ---
 * ---
 * Pizza delivery
@@ -133,7 +135,7 @@
 * Who is it?
 * ---
 * Pizza deliverer:
-* It's Pizza delivery.  I have your delux pizza.
+* It's Pizza delivery.  I have your deluxe pizza.
 * ---
 * Movie clip:
 * Leave it on the door step and get the h*ll out of here!
@@ -153,7 +155,7 @@
 * Pizza deliverer:
 * Nineteen Fifty
 * ---
-* DIR-Edwin throws out money through the door.
+* DIR-Edwin throws out $20 through the door.
 * ---
 * Pizza deliverer:
 * DIR-Pickup money.
@@ -179,6 +181,7 @@
 * ---
 * Robber start
 * ============
+* DIR-In car talking
 * Harry:
 * Go and checkout the house Marv.
 * ---
@@ -208,7 +211,7 @@
 * Hahr???
 * ---
 * Marv:
-* Somebody beat up to the job.  There are in there.  Two of them.  There was arguing and one of them blew the other one away.
+* Somebody beat us to the job.  There are in there.  Two of them.  There was arguing and one of them blew the other one away.
 * ---
 * Harry:
 * Who?
@@ -217,7 +220,7 @@
 * I don't know.  I thought I recognize one of the voices.  I know I heard the name Snakes before!
 * ---
 * Harry:
-* Snakes?  Snakes. Snakes, snakes.  I don't know no snakes.
+* Snakes?  Snakes...Snakes...snakes.  I don't know no snakes.
 * ---
 * Marv:
 * Lets get otta here.
@@ -228,7 +231,7 @@
 * ---
 * Edwin watches movie and eats popcorn
 * ====================================
-* DIR-Edwin makes pop corn
+* DIR-Edwin makes pop corn in the microwave
 * ---
 * DIR-Sit down and watch home alone movie.
 * ---
@@ -264,7 +267,7 @@
 * Yeah!  With his clintched fist!
 * ---
 * Edwin:
-* DIR-dresses his Cadets uniform.  Pulls out the plans on the coffee table. And pushes the things aside.
+* DIR-dresses his Cadets uniform and puts on guns.  Pulls out the plans on the coffee table. And pushes the things aside.
 * ---
 * ---
 * Action Plan - Brick
@@ -289,10 +292,11 @@
 * Ok, give it to me.
 * ---
 * Edwin:
-* Here you go! DIR-With brick.  Brick hit Marv.
+* Here you go! 
+* DIR-With brick.  Brick hit Marv.
 * ---
 * Harry:
-* You go anther one kid!
+* You got anther one kid!
 * ---
 * Edwin:
 * DIR-Throws anther brick at Marv.
@@ -304,7 +308,7 @@
 * Harry, harry, harry, DIR-points to Edwin upstairs with another brick.
 * ---
 * Edwin:
-* Throws brick and hits Marv for the 3rd time.  Marv faints like a twitty bird.
+* Throws brick and hits Marv for the 3rd time.  Marv faints and gets dizzy.
 * ---
 * Edwin:
 * You guys had enough or are you thirsty for more!
@@ -390,7 +394,7 @@
 * Mom arrives home
 * ====================
 * Mom:
-* Merry Christmas sweethear.
+* Merry Christmas sweetheart.
 * ---
 * Edwin:
 * Stunned.
@@ -405,25 +409,25 @@
 * Where is everybody else?
 * ---
 * Mom:
-* Ob baby, they couldn't come, they wanted to so much.
+* Oh baby, they couldn't come, they wanted to so much.
 * ---
 * DIR-Dad, Daniel and Catherine enters door.
 * ---
-* Dad gives Edwin a hug.  
+* DIR-Dad gives Edwin a hug.  
 * ---
 * Daniel:
 * Thanks for not burning down the house buddy.
 * ---
 * Catherine:
-* How did you managed while we were gone!
+* How did you managed while we were gone?!
 * ---
 * DIR-Door ding dongs
 * ---
-* Dad opens door for a lot of Amazon deliveies.
+* DIR-Dad opens door for a lot of Amazon deliveies.
 * ---
 * E-D-W-I-N!  Very very loud.
 * ---
-* This is for you mom, dad, Daniel, this is for you, Catherine this is for you.
+* This is for you Mom & Dad, Daniel, this is for you, Catherine this is for you.
 * ---
 * Merry Christmas Everyone!
 * ---
