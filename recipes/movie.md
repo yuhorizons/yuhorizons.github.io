@@ -22,7 +22,7 @@
 * Well Dan Dan just got his G2 drivers license and he can help with some of the driving.
 * ---
 * Kevin:
-* You are right. You are always right. Lets do it!
+* You are right. It'll be good for us.  Lets do it!
 * ---
 * Deb:
 * Kids, tomorrow we are going on a Christmas road trip.  Lets have dinner.
