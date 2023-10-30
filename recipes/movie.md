@@ -49,7 +49,7 @@
 * East coast is boring.  Nothing to see except water!  I hate road trips.
 * ---
 * Daniel:
-* Hurry up and finish your dinner Edwin.  Stop playing around with your food.
+* Stop being so negative.  Hurry up and finish your dinner Edwin.  Stop playing around with your food.
 * ---
 * Edwin:
 * Get lost Gor Gor.  Stop bothering me.
@@ -67,7 +67,7 @@
 * Stop it mom.  Everyone is on my case.  I need some room to breath.  I wish you guys weren't here.
 * ---
 * Mom:
-* What?  I hope you didn't mean that.  Becareful of what you wish for.  Say that again and it may come true!
+* What?!  I hope you didn't mean that.  Becareful of what you wish for.  Say that again and it may come true!
 * ---
 * Edwin:
 * Just leave me alone.  I wish you guys weren't here!
