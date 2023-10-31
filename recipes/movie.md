@@ -144,25 +144,25 @@
 * Who is it?
 * ---
 * Pizza deliverer:
-* It's your Pizza delivery.  I have your deluxe pizza warm and ready!
+* It's your Pizza delivery.  I have your deluxe pizza!
 * ---
 * Movie clip:
 * Leave it on the door step and get the h*ll out of here!
 * ---
 * Pizza deliverer:
-* Uhm ookay (wispering: rude).....Well, what about the money you are suposed to give me?
+* Uhm ookay (wispering: rude).....Well, what about the money?
 * ---
 * Movie clip:
 * What money?
 * ---
 * Pizza deliverer:
-* Welllll, you'll have to pay of the pizza SIR in order to get it!
+* Welllll, you'll have to pay of the pizza SIR!
 * ---
 * Movie clip:
 * How much do I owe you?
 * ---
 * Pizza deliverer:
-* Nineteen Fifty is your total.
+* Nineteen Fifty.
 * ---
 * DIR-Edwin throws out $20 through the door.
 * ---
