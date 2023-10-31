@@ -346,13 +346,15 @@
 * DIR-Throws anther brick at Marv.
 * ---
 * Harry: 
-* Is that all you've got.  He doesn't have any more.
+* Is that all you've got.  
+* DIR-Turn around and look at Marv
+* He doesn't have any more.
 * ---
 * Marv:
 * Harry, harry, harry, DIR-points to Edwin upstairs with another brick.
 * ---
 * Edwin:
-* Throws brick and hits Marv for the 3rd time.  Marv faints and gets dizzy.
+* DIR-Throws brick and hits Marv for the 3rd time.  Marv faints and gets dizzy.
 * ---
 * Edwin:
 * You guys had enough or are you thirsty for more!
