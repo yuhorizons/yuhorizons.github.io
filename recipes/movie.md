@@ -289,7 +289,7 @@
 * I don't like it Harry.  He is still up.  Maybe we should wait until later.
 * ---
 * Harry:
-* Marv, Marv. he is home alone.  What harm can he do?!
+* Marv, Marv, the kid is home alone.  What harm can he do?!
 * ---
 * Marv:
 * Yeah, you are right Harry. Sorry!
