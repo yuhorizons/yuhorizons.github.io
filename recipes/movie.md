@@ -227,7 +227,7 @@
 * ============
 * DIR-In car talking
 * Harry:
-* Go and checkout the house Marv.
+* Go and check the back of the house Marv.
 * ---
 * Marv:
 * Like, right now?
@@ -243,33 +243,15 @@
 * DIR-He gets fire crackers and lights them up.
 * ---
 * Marv:
-* DIR-Runs back to the car
+* DIR-Runs back to Harry.
 * ---
 * Harry:
 * What happened?
 * ---
 * Marv:
-* I don't know who is in there.  But someone just got blown away.
+* Somebody beat us to the job.  There are in there.  Two of them. Someone got blown away.
 * ---
 * Harry:
-* Huh???
-* ---
-* Marv:
-* Somebody beat us to the job.  There are in there.  Two of them.  There was arguing and one of them blew the other one away.
-* ---
-* Harry:
-* Who?
-* ---
-* Marv:
-* I don't know.  I thought I recognize one of the voices.  I know I heard the name Snakes before!
-* ---
-* Harry:
-* Snakes?  Snakes...Snakes...snakes.  I don't know no snakes.
-* ---
-* Marv:
-* Lets get otta here. Im scared.
-* ---
-* Harry: 
 * Alright, lets come back later.
 * ---
 * ---
@@ -506,4 +488,30 @@
 * ---
 * Merry Christmas!  Family Hug!
 * ---
-
+* Kevin alternative
+* ====================
+* Kevin
+* I'm so sorry Edwin. Merry Christmas.
+* What's all the Amazon boxes outside.
+* ---
+* Edwin
+* Oh, I did some Christmas shopping with your credit card.
+* ----
+* Everyone
+* E-D-W-I-N!!!!!!!!!!!!
+* Mom
+* Oh, how did you get back so fast?
+* ---
+* Dad
+* We took the next flight home.
+* ---
+* Mom
+* What about our car?
+* ---
+* Kevin
+* Oopssssssss
+* I left the car at the Halifax Airport.
+* ---
+* Everyone
+* K-E-V-I-N!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+* 
