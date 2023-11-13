@@ -10,7 +10,7 @@
 *  
 
 ## based on  
-* Intro
+* Intro-done
 * ======
 * Deborah:
 * Honey lets go on a Christmas family road trip.  We have not gone on a vacation for such a long time.  Daniel is off to University next year and Edwin is already in High School.  It'll be good for the family.
@@ -28,7 +28,7 @@
 * Kids, tomorrow we are going on a Christmas road trip.  Lets have dinner.
 * ---
 * ---
-* Argument
+* Argument-done
 * ========
 * Mom:
 * Where should we go?
@@ -87,7 +87,7 @@
 * Catherine: But mommy you always find the stuff in seconds. We need you.
 * ---
 * Dad:  
-* Are we all ready!  Lets go go go.  Everyone get in the car.
+* Are we all ready?!  Lets go go go.  Everyone get in the car.
 * ---
 * DIR-Each closing the car door.
 * ---
@@ -112,7 +112,7 @@
 * DIR-Car drives off.
 * ---
 * ---
-* Edwin wakes up
+* Edwin wakes up-done
 * ==============
 * Edwin:
 * Mom...........Dad????
@@ -134,7 +134,7 @@
 * Edwin watches netflix (Angles)
 * ---
 * ---
-* Pizza delivery
+* Pizza delivery-done
 * ==============
 * Pizza delivery car hits garbage can and delivery kid picks up garbage can and takes pizza to front door.
 * ---
@@ -183,8 +183,8 @@
 * DIR-Scared and knocks on garbage can and runs to car.
 * ---
 * ---
-* Somthing is missing
-* =================================
+* Somthing is missing-done
+* ===================
 * ---
 * Deborah:
 * I have a strange feeling.
@@ -217,7 +217,7 @@
 * Drop me off at the airport NOW and drive home ASAP.
 * ---
 * ---
-* Edwin eats pizza and washes dishes
+* Edwin eats pizza and washes dishes-done
 * =================================
 * DIR-Edwin eats pizza 
 * DIR-Edwin washes dishes
@@ -225,37 +225,37 @@
 * ---
 * Robber start
 * ============
-* DIR-In car talking
-* Harry:
-* Go and check the back of the house Marv.
+* DIR-Robbers on driveway
+* Ming:
+* Go and check the back of the house Mei.
 * ---
-* Marv:
+* Mei:
 * Like, right now?
 * ---
-* Harry:
+* Ming:
 * Yes now!
 * ---
-* Marv:
+* Mei:
 * DIR-Checks out the house.
 * ---
 * DIR-Edwin hears something at the back door
 * DIR-He quickly plays movie clip.
 * DIR-He gets fire crackers and lights them up.
 * ---
-* Marv:
-* DIR-Runs back to Harry.
+* Mei:
+* DIR-Runs back to Ming.
 * ---
-* Harry:
+* Ming:
 * What happened?
 * ---
-* Marv:
+* Mei:
 * Somebody beat us to the job.  There are in there.  Two of them. Someone got blown away.
 * ---
-* Harry:
+* Ming:
 * Alright, lets come back later.
 * ---
 * ---
-* Edwin watches movie and eats popcorn
+* Edwin watches movie and eats popcorn-done
 * ====================================
 * DIR-Edwin makes pop corn in the microwave
 * ---
@@ -267,22 +267,27 @@
 * Burglers outside
 * ================
 * ---
-* Marv:
-* I don't like it Harry.  He is still up.  Maybe we should wait until later.
+* Mei:
+* I don't like it Ming.  He is still up.  Maybe we should wait until later.
 * ---
-* Harry:
-* Marv, Marv, the kid is home alone.  What harm can he do?!
+* Ming:
+* Mei, Mei, the kid is home alone.  What harm can he do?!
 * ---
-* Marv:
-* Yeah, you are right Harry. Sorry!
+* Mei:
+* Yeah, you are right Ming. Sorry!
 * ---
-* Harry:
-* Yes, it makes sense to break in now.  Crowbars up!
+* Ming:
+* Yes, it makes sense to break in now.
 * ---
-* DIR-Harry hits Marv with crowbar.
+* Mei:
+* Crowbars up (small blue crowbar)
 * ---
-* DIR-Edwin while watching move notices robbers outside curtain.
+* Ming:
+* You call that a crowbar.
+* DIR-He pulls out a huge crowbar.
 * ---
+* Edwin notice burglers-done
+* =====================
 * Edwin:
 * Whispers: Oh no.....Burglers
 * DIR-Tries to dial 911 with cell phone
@@ -292,6 +297,8 @@
 * Edwin:
 * Yeah!  With his clintched fist!
 * ---
+* Edwin get actions plan ready
+* =============================
 * Edwin:
 * DIR-dresses his Cadets uniform and puts on guns.  Pulls out the plans on the coffee table. And pushes the things aside.
 * ---
@@ -302,50 +309,50 @@
 * Edwin:
 * Hey, I'm up here.  You are on camera!
 * ---
-* Harry:
+* Ming:
 * Look I'm not going to hurt ya if you throw down the camera.  Lets call it even, OK.
 * ---
 * Edwin:
 * You promise?
 * ---
-* Harry:
+* Ming:
 * I cross my heart and hope to die!
 * ---
 * Edwin:
 * Ok.
 * ---
-* Harry:
+* Ming:
 * Ok, give it to me.
 * ---
 * Edwin:
 * Here you go! 
-* DIR-With brick.  Brick hit Marv.
+* DIR-With brick.  Brick hit Mei.
 * ---
-* Harry:
+* Ming:
 * You got anther one kid!
 * ---
 * Edwin:
-* DIR-Throws anther brick at Marv.
+* DIR-Throws anther brick at Mei.
 * ---
-* Harry: 
+* Ming: 
 * Is that all you've got.  
-* DIR-Turn around and look at Marv
+* DIR-Turn around and look at Mei
 * He doesn't have any more.
 * ---
-* Marv:
-* Harry, harry, harry, DIR-points to Edwin upstairs with another brick.
+* Mei:
+* Ming, Ming, Ming, DIR-points to Edwin upstairs with another brick.
 * ---
 * Edwin:
-* DIR-Throws brick and hits Marv for the 3rd time.  Marv faints and gets dizzy.
+* DIR-Throws brick and hits Mei for the 3rd time.  Mei faints and gets dizzy.
 * ---
 * Edwin:
 * You guys had enough or are you thirsty for more!
 * ---
-* Harry:
+* Ming:
 * You go to the back and I'll go to the front.
 * ---
 * ---
-* Mom Airport
+* Mom Airport-done
 * ===========================
 * Attendent:
 * May I assist you?
@@ -372,73 +379,117 @@
 * Thank you Thank you. Merry Christmas.
 * ---
 * ---
-* Action Plan - come in house
-* ===========================
-* 1: Marv got flour all over him
-* 2: Harry falls to basement
+* Action Plan - Mei enters through back door
+* ==========================================
+* DIR-Mei enters through back door
+* DIR-Pop balloom (green face mask)
+* ---
+* DIR-Edwin throw pot at Mei
+* DIR-Mei with pot on head (Funny Maggy face)
+* Mei:
+* Hot hot hot
+* ---
+* DIR-Mei trip on wire and hit ground hard with crowbar flying out of hand
+* Mei
+* Outch
+* DIR-Crooked nose (Slightly crooked)
+* DIR-Mei adjust nose
+* Mei:
+* I'll get you, you little turp!
+* ---
+* Dir-Edwin throws cicada on Mei (cicada on face)
+* Mei:
+* You got to do better than that
+* Dir-Edwin throws bees at Mei (bees on face)
+* DIR-Snake on face
+* DIR-Possum on head
+* DIR-Cat on head/cute cat
+* DIR-Toad on my head
+* DIR-Parrot gang after bird flu (chirp)
+* DIR-Ground hog
+* DIR-Cockroach 
+* DIR-MEI finally faints
+* ---
+* Action Plan2 - Ming enters through front door
+* =============================================
+* DIR-Ming enters front door
+* DIR-Torch to head to light on fire (fire head, then head on fire)
+* DIR-Drop crowbar on foot
+* DIR-Run to washroom turn on faucet but no water
+* DIR-Put head to toilet to put out fire (funny poop)
+* DIR-Poo on head
+* DIR-Touch poo on head, then sniff and say ewwww
+* DIR-Knock poo off hat (head on fire)
 * ---
 * Robbers:
 * DIR-both robber meet at stairs
 * ---
-* Harry:
+* Ming:
 * Hey, what happened to you?!
 * ---
-* Marv:
+* Mei:
 * What happened to you?!
 * ---
-* Harry:
+* Ming:
 * He did this to me?!
 * ---
-* Marv:
-* He did this to me?!
+* Mei:
+* He did this to me?! Hey how come you have chocolet on your hat.
+* DIR-touch with finders and taste poo
+* DIR-Mei vomets (Vomitar, Puke - spuitkots)
 * ---
+* 
 * Edwin:
 * Hey guys, I'm up here!  Come and get me!
 * ---
-* Marv:
+* Mei:
 * I think he is up there!
 * ---
-* Harry:
+* Ming:
 * We are coming to get you.
 * ---
-* DIR-Paint can hits Marv
-* DIR-Crowbar bit marv
+* DIR-Paint can hits Mei (ultra dizzy)
 * ---
-* Harry:
-* Don't worry Marv, I'll get him.
+* Ming:
+* Don't worry Mei, I'll get him.
 * ---
 * Edwin:
-* DIR-Use gun to shoot Harry.
+*  DIR-Paint can hits Ming, both on ground (Tonge twister)
 * ---
 * ---
 * Action Plan - Spider
 * ====================
-* ---
-* Harry:
-* I got him.  DIR-Edwin pick up spider and put on Harry.
-* ---
-* Marv:
-* Harry, Harry, shhhhhh.
-* ---
-* Harry:
-* What are you doing Marv?  No no nooooooooo.
-* ---
-* DIR-Marv hit harry with crowbar to kill spider.  
+* DIR-Ming trips on line
+* DIR-Mei trips on line and grabs Edwin's foot (intense look)
+* DIR-Mei - "I got him, Ming, come and help me quick"
+* DIR-Edwin grabs spider and put on Mei's head (Spider on face)
+* DIR-Mei throws on Ming's head
+* DIR-Mei-"Ming, don't move, there is a spider on your head" (disgust, noooooo, shook) 
+* DIR-Ming-"Mei what are you doing"
+* DIR-Mei hit Ming on the face with crowbar (swollen tooth)
+* DIR-Ming-"Outch, you jerk, what did you do that for? Go after the kid"
+* DIR-Edwin runs to basement 
 * ---
 * ---
 * Action Plan - Boxing
 * ====================
-* Edwin knocks them out with boxing gloves.
+* DIR-Edwin hides under blanket in basement
+* DIR-Mei comes down and Edwin uses dodge balls to hit him (ultra dizzy, tongue twister)
+* DIR-Ming comes down and Edwin uses boxing gloves to KO on Ming (Dirty nose, knockout, hurt)
 * Calls 911 for cops to get the robbers.
 * ---
+* Edwin: 
+* Duck tapes them and tie them to poll (Bruised).
+* --
 * Edwin:
 * I caught two bandets trying to rob my house.  Please come and get them.
 * ---
-* Edwin: 
-* Duck tapes them and tie them to poll.
+* DIR-Police comes (Police car, poice, Policeman 3d)
+* DIR-Mei-"Remember, we are called the purglers, hence the cat hats"
+* DIR-Ming-"Shut up Mei"
+* DIR-Police takes them-"Keep safe and Merry Christmas"
 * ---
-* ---
-* Edwin prays to God
+* Edwin prays to God-done
 * ====================
 * Edwin:
 * Dear God, sorry I have not being a good kid lately.  Please take care of my family and I was wrong to wish my family to disappear.  I really missed them and want them back.  Please tell them I love them.
@@ -446,7 +497,7 @@
 * DIR-Put pull chrismat tree and stockings and decorate tree.
 * ---
 * ---
-* Mom arrives home
+* Mom arrives home-done
 * ====================
 * Mom:
 * Merry Christmas sweetheart.
@@ -466,9 +517,12 @@
 * Mom:
 * Oh baby, they couldn't come, they wanted to so much.
 * ---
-* DIR-Dad, Daniel and Catherine enters door.
 * ---
-* DIR-Dad gives Edwin a hug.  
+* Dad arrives home
+* =================
+* DIR-Dad, Daniel and Catherine enters door very quickly and worrysome.
+* ---
+* DIR-Dad gives Edwin a hug.  "I'm so sorry Edwin. Merry Christmas."
 * ---
 * Daniel:
 * Thanks for not burning down the house buddy.
@@ -479,40 +533,15 @@
 * DIR-Door ding dongs
 * ---
 * DIR-Dad opens door for a lot of Amazon deliveies.
+* What's all the Amazon boxes outside.
 * ---
-* E-D-W-I-N!  Very very loud.
+* Edwin
+* Oh, I did some Christmas shopping with your credit card.
+* ----
+* Everyone yells E-D-W-I-N!  Very very loud.
 * ---
 * This is for you Mom & Dad, Daniel, this is for you, Catherine this is for you.
 * ---
 * Merry Christmas Everyone!
 * ---
 * Merry Christmas!  Family Hug!
-* ---
-* Kevin alternative
-* ====================
-* Kevin
-* I'm so sorry Edwin. Merry Christmas.
-* What's all the Amazon boxes outside.
-* ---
-* Edwin
-* Oh, I did some Christmas shopping with your credit card.
-* ----
-* Everyone
-* E-D-W-I-N!!!!!!!!!!!!
-* ---
-* Mom
-* Oh, how did you get back so fast?
-* ---
-* Dad
-* We took the next flight home.
-* ---
-* Mom
-* What about our car?
-* ---
-* Kevin
-* Oopssssssss
-* I left the car at the Halifax Airport.
-* ---
-* Everyone
-* K-E-V-I-N!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-* 
