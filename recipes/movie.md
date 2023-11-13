@@ -283,7 +283,7 @@
 * Crowbars up (small blue crowbar)
 * ---
 * Ming:
-* You call that a crowbar.
+* You call that a crowbar. Now, this is a crowbar.
 * DIR-He pulls out a huge crowbar.
 * ---
 * Edwin notice burglers-done
@@ -401,11 +401,11 @@
 * Mei:
 * You got to do better than that
 * Dir-Edwin throws bees at Mei (bees on face), ahhh, I hate bees
+* DIR-Parrot gang after bird flu (chirp)
 * DIR-Snake on face
 * DIR-Possum on head
 * DIR-Cat on head/cute cat
 * DIR-Toad on my head
-* DIR-Parrot gang after bird flu (chirp)
 * DIR-Funny Chicken
 * DIR-Ground hog
 * DIR-Cockroach 
@@ -545,3 +545,12 @@
 * Merry Christmas Everyone!
 * ---
 * Merry Christmas!  Family Hug!
+* ---
+* ---
+* Extras
+* =======
+* Fatigued eyes
+* Big Funny Eyebrows
+* Horseshoe stache
+* City in my eyes
+* Christmas beard
