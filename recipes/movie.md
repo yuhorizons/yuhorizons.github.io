@@ -406,10 +406,10 @@
 * DIR-Possum on head
 * DIR-Cat on head/cute cat
 * DIR-Toad on my head
-* DIR-Funny Chicken
+* DIR-Funny Chicken, turkey head
 * DIR-Ground hog
 * DIR-Cockroach 
-* DIR-MEI finally faints, opens mouth (insects in mouth)
+* DIR-MEI finally faints, opens mouth (insects in mouth, Tonge twister)
 * ---
 * Action Plan2 - Ming enters through front door
 * =============================================
