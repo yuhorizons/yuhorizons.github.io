@@ -400,15 +400,16 @@
 * Dir-Edwin throws cicada on Mei (cicada on face)
 * Mei:
 * You got to do better than that
-* Dir-Edwin throws bees at Mei (bees on face)
+* Dir-Edwin throws bees at Mei (bees on face), ahhh, I hate bees
 * DIR-Snake on face
 * DIR-Possum on head
 * DIR-Cat on head/cute cat
 * DIR-Toad on my head
 * DIR-Parrot gang after bird flu (chirp)
+* DIR-Funny Chicken
 * DIR-Ground hog
 * DIR-Cockroach 
-* DIR-MEI finally faints
+* DIR-MEI finally faints, opens mouth (insects in mouth)
 * ---
 * Action Plan2 - Ming enters through front door
 * =============================================
@@ -479,15 +480,14 @@
 * Calls 911 for cops to get the robbers.
 * ---
 * Edwin: 
-* Duck tapes them and tie them to poll (Bruised).
+* Duck tapes them and tie them to three (Bruised face).
 * --
 * Edwin:
-* I caught two bandets trying to rob my house.  Please come and get them.
+* I caught two bandets trying to rob my house.  Please come and get them, they are tied to my tree/
 * ---
 * DIR-Police comes (Police car, poice, Policeman 3d)
 * DIR-Mei-"Remember, we are called the purglers, hence the cat hats"
 * DIR-Ming-"Shut up Mei"
-* DIR-Police takes them-"Keep safe and Merry Christmas"
 * ---
 * Edwin prays to God-done
 * ====================
