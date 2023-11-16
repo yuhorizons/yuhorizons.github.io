@@ -408,7 +408,11 @@
 * DIR-Cat on head/cute cat
 * DIR-Snake on face
 * DIR-Funny Chicken, turkey head
-* DIR-Parrot gang after bird flu (chirp)
+* ---
+* Mei:
+* No more. No more.  Please!
+* ----
+* DIR-Parrot gang then bird flu (chirp)
 * Dir-Edwin throws cicada on Mei (cicada on face)
 * Dir-Edwin throws bees at Mei (bees on face), ahhh, I hate bees
 * DIR-Cockroach 
