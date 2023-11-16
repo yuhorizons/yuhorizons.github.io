@@ -285,6 +285,8 @@
 * Ming:
 * You call that a crowbar. Now, this is a crowbar.
 * DIR-He pulls out a huge crowbar.
+* Mei:
+* Lets hope that does not get dropped on your foot!
 * ---
 * Edwin notice burglers-done
 * =====================
