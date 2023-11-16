@@ -397,17 +397,18 @@
 * Mei:
 * I'll get you, you little turp!
 * ---
-* Dir-Edwin throws cicada on Mei (cicada on face)
+* DIR-Edwin hides behind couch, throw stuff animal at Mei when She comes in
 * Mei:
-* You got to do better than that
-* Dir-Edwin throws bees at Mei (bees on face), ahhh, I hate bees
-* DIR-Parrot gang after bird flu (chirp)
-* DIR-Snake on face
+* Stuffed animals is all you have, you have to better than that!
+* ----
 * DIR-Possum on head
-* DIR-Cat on head/cute cat
 * DIR-Toad on my head
+* DIR-Cat on head/cute cat
+* DIR-Snake on face
 * DIR-Funny Chicken, turkey head
-* DIR-Ground hog
+* DIR-Parrot gang after bird flu (chirp)
+* Dir-Edwin throws cicada on Mei (cicada on face)
+* Dir-Edwin throws bees at Mei (bees on face), ahhh, I hate bees
 * DIR-Cockroach 
 * DIR-MEI finally faints, opens mouth (insects in mouth, Tonge twister)
 * ---
@@ -483,9 +484,10 @@
 * Duck tapes them and tie them to three (Bruised face).
 * --
 * Edwin:
-* I caught two bandets trying to rob my house.  Please come and get them, they are tied to my tree/
+* I caught two bandets trying to rob my house.  Please come and get them, they are tied to a tree infront of our house
 * ---
-* DIR-Police comes (Police car, poice, Policeman 3d)
+* DIR-Police comes (Police car, police, Policeman 3d)
+* DIR-So you are the bandets that has breaking into houses in the neighbourhood. We'll I'm so glad to put you behind bars!
 * DIR-Mei-"Remember, we are called the purglers, hence the cat hats"
 * DIR-Ming-"Shut up Mei"
 * ---
@@ -520,23 +522,15 @@
 * ---
 * Dad arrives home
 * =================
-* DIR-Dad, Daniel and Catherine enters door very quickly and worrysome.
+* DIR-Dad, Daniel and Catherine holding boxes enters door very quickly and worrysome.
 * ---
 * DIR-Dad gives Edwin a hug.  "I'm so sorry Edwin. Merry Christmas."
 * ---
-* Daniel:
-* Thanks for not burning down the house buddy.
-* ---
 * Catherine:
-* How did you managed while we were gone?!
-* ---
-* DIR-Door ding dongs
-* ---
-* DIR-Dad opens door for a lot of Amazon deliveies.
-* What's all the Amazon boxes outside.
+* So what's with all the Amazon packages?
 * ---
 * Edwin
-* Oh, I did some Christmas shopping with your credit card.
+* Oh, I did some Christmas shopping with Dad's credit card.
 * ----
 * Everyone yells E-D-W-I-N!  Very very loud.
 * ---
