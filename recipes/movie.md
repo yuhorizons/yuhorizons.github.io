@@ -458,6 +458,9 @@
 * ---
 * DIR-Paint can hits Mei (ultra dizzy)
 * ---
+* Edwin:
+* Yes, direct hit!
+* --
 * Ming:
 * Don't worry Mei, I'll get him.
 * ---
