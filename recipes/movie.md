@@ -403,6 +403,9 @@
 * Mei:
 * Stuffed animals is all you have, you have to better than that!
 * ----
+* Edwin
+* Okay, how about these?
+* ----
 * DIR-Possum on head
 * DIR-Toad on my head
 * DIR-Cat on head/cute cat
