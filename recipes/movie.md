@@ -311,6 +311,9 @@
 * Edwin:
 * Hey, I'm up here.  You are on camera!
 * ---
+* Mei:
+* Hey Ming, he took a picture of us!
+* ---
 * Ming:
 * Look I'm not going to hurt ya if you throw down the camera.  Lets call it even, OK.
 * ---
