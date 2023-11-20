@@ -473,6 +473,8 @@
 * Edwin:
 *  DIR-Paint can hits Ming, both on ground (Tonge twister)
 * ---
+* Edwin:
+* Tide's in, dirt's out (or If it's got to be clean, It's got to be Tide)
 * ---
 * Action Plan - Spider
 * ====================
