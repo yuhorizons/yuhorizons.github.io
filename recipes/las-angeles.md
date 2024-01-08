@@ -31,7 +31,7 @@
 *  *
 *  Day 4
 *  San Jose 10am start (check-out hotel)
-*  Alhambra, California (6h) arrive 4pm (check-in hotel)
+*  Alhambra, California (6h) arrive 5pm (check-in hotel)
 *  *
 *  Day 5
 *  Alhambra, California 9am start
@@ -52,17 +52,20 @@
 *  *
 *  Day 8
 *  Alhambra, California 9am start
-*  Griffith Observatory (30min) arrive 9:30am leave 12pm
-*  Chinese Theatre and Hollywood Walk of Fame (30min) arrive 12:30pm leave 2pm
-*  California Science Center (30min) arrive 2:30pm leave 6pm
+*  Griffith Observatory (30min) arrive 9:30am leave 1pm
+*  Chinese Theatre and Hollywood Walk of Fame (30min) arrive 1:30pm leave 4pm
+*  Rodeo Drive (30min) arrive at 4:30pm leave 6pm
 *  Alhambra, California (30min) 7pm
 *  *
 *  Day 9
 *  Alhambra, California 9am start
-*  
+*  Warner Bros Studio Tour (30min) arrive at 9:30pm leave 2pm 
+*  California Science Center (30min) arrive 2:30pm leave 6pm
+*  Alhambra, California (30min) 7pm
 *  *
 *  Day 10
 *  Alhambra, California 9am start
+*  Open
 *  *
 *  Day 11
 *  Alhambra, California 6am start (check-out hotel)
