@@ -1,18 +1,20 @@
-# Nova Scotia Road Trip  
+# Las Angeles Road Trip  
 
 ## info  
 * 
 
 ## steps  
-1. Markham->Montreal->Fredericton->Halifax
-2. Halifax->Quebec City->Mount-Tremblant>Markham
+1. Markham->LA->San Francisco->LA
+2. LA->Markham
 
 ## notes  
-*  Markham->QC (7.5 hrs) 7am start
-*  The Big Apple (Buy Apple Pie) 8:30am
-*  Kingston (Queen's University) 10am
-*  Montreal (lunch-Nouilles de Lan Zhou: 1006 St Laurent Blvd) 2pm
-*  Quebec City (1 night hotel) 5pm
+*  Day 1
+*  LAX 10am start
+*  Santa Barbara (3h) arrive 1pm leave 2pm
+*  Hearst Castle (3h) arrive 6pm leave 7pm
+*  Monterey (3) arrive 10pm
+*  *
+*  Day 2
 *  *
 *  QC->Fredericton (7 hrs)
 *  Quebec City
