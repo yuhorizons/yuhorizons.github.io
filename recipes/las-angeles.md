@@ -77,3 +77,7 @@
 *  Day2 map https://maps.app.goo.gl/yWLdLj1JKPA5U1jD8  
 *  Day3 map https://maps.app.goo.gl/US8KMnAwERkevrg38  
 *  Day4 map https://maps.app.goo.gl/1NaTyhaG5cdZEpPW9 
+*  Day5 map https://maps.app.goo.gl/vemApirekRa5q11f7  
+*  Day6 map https://maps.app.goo.gl/s5w9qvfXiGtvxGuM7  
+*  Day7 map https://maps.app.goo.gl/sSWzmgySg95XpL7t9  
+*  
