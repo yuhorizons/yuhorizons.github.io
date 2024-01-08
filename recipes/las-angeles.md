@@ -80,4 +80,8 @@
 *  Day5 map https://maps.app.goo.gl/vemApirekRa5q11f7  
 *  Day6 map https://maps.app.goo.gl/s5w9qvfXiGtvxGuM7  
 *  Day7 map https://maps.app.goo.gl/sSWzmgySg95XpL7t9  
+*  Day8 map https://maps.app.goo.gl/6SRiW1EXcxeEYnV56  
+*  Day9 map https://maps.app.goo.gl/dBbYrArwXAZmy7KK9 
+*  Day10
+*  Day11 map https://maps.app.goo.gl/vbVoZCERhdPd2rQPA 
 *  
