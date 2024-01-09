@@ -1,4 +1,4 @@
-# Las Angeles Road Trip  
+# Los Angeles Trip
 
 ## info  
 * 
@@ -8,20 +8,20 @@
 2. LA->Markham
 
 ## notes  
-*  Day 1
+*  Day 1 (Aug 2)
 *  LAX 10am start
 *  Santa Barbara (3h) arrive 1pm leave 2pm
 *  Hearst Castle (3h) arrive 6pm leave 7pm
 *  Monterey (3h) arrive 10pm (check-in hotel)
 *  *
-*  Day 2
+*  Day 2 (Aug 3)
 *  Monterey 10am start (check-out hotel)
 *  Big Sur (1h) arrive 11am leave 2pm
 *  Santa Cruz (2h) arrive 4pm leave 5pm
 *  Golden Gate Bridge (2h) arrive 6pm leave 8pm
 *  Sausalito (9min) arrive 10pm (check-in hotel)
 *  *
-*  Day 3
+*  Day 3 (Aug 4)
 *  Sausalito 10am start (check-out hotel)
 *  Muir Woods (30min) arrive 10:30am leave 12pm
 *  Pier 9 San Francisco (1hr) arrive 10:30am leave 12pm
@@ -29,45 +29,45 @@
 *  Mission Peak Trail (30min) arrive 2pm leave 4pm
 *  San Jose (1h) arrive 5pm (check-in hotel)
 *  *
-*  Day 4
+*  Day 4 (Aug 5)
 *  San Jose 10am start (check-out hotel)
 *  Alhambra, California (6h) arrive 5pm (check-in hotel)
 *  *
-*  Day 5
+*  Day 5 (Aug 6)
 *  Alhambra, California 9am start
 *  Universal Studios Hollywood (30min) arrive 9:30am leave 8:30pm
 *  Alhambra, California (30min) 9pm
 *  *
-*  Day 6
+*  Day 6 (Aug 7)
 *  Alhambra, California 9am start
 *  Petersen Automotive Museum (30min) arrive 9:30am leave 1pm
 *  Santa Monica Pier (30min) arrive 1:30am leave 4pm
 *  Venice Beach (9min) arrive 4m leave 6pm
 *  Alhambra, California (30min) 7pm
 *  * 
-*  Day 7
+*  Day 7 (Aug 8)
 *  Alhambra, California 9am start
 *  Disneylan Park (30min) arrive 9:30am leave 8:30pm
 *  Alhambra, California (30min) 9pm
 *  *
-*  Day 8
+*  Day 8 (Aug 9)
 *  Alhambra, California 9am start
 *  Griffith Observatory (30min) arrive 9:30am leave 1pm
 *  Chinese Theatre and Hollywood Walk of Fame (30min) arrive 1:30pm leave 4pm
 *  Rodeo Drive (30min) arrive at 4:30pm leave 6pm
 *  Alhambra, California (30min) 7pm
 *  *
-*  Day 9
+*  Day 9 (Aug 10)
 *  Alhambra, California 9am start
 *  Warner Bros Studio Tour (30min) arrive at 9:30pm leave 2pm 
 *  California Science Center (30min) arrive 2:30pm leave 6pm
 *  Alhambra, California (30min) 7pm
 *  *
-*  Day 10
+*  Day 10 (Aug 11)
 *  Alhambra, California 9am start
 *  Open
 *  *
-*  Day 11
+*  Day 11 (Aug 12)
 *  Alhambra, California 6am start (check-out hotel)
 *  LAX (1hr) arrive 7am
 *  
