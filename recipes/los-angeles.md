@@ -22,7 +22,7 @@
 *  Subway, 270 E Hwy 246 Unit 103, Buellton arrive 7:00pm (1hr)
 *  Days Inn by Wyndham Santa Maria, 839 E Main St, Santa Maria arrive 8:30pm
 *  *
-*  Day 2 (Aug 3)
+*  Day 2
 *  Days Inn by Wyndham Santa Maria 10am start (check-out hotel)
 *  Pismo Beach Pier, Pismo arrive 10:30am (0.5hr)
 *  Gum Alley, San Luis Obispo arrive 11:00am (0.5hr)
@@ -43,13 +43,20 @@
 *  Monterey Bay Aquarium/Cannery Row, Monterey arrive 9:00pm
 *  Ramada by Wyndham, 323 Reservation Road, Marina arrive 9:30pm
 *  *
-*  Day 3 (Aug 4)
-*  Sausalito 10am start (check-out hotel)
-*  Muir Woods (30min) arrive 10:30am leave 12pm
-*  Pier 9 San Francisco (1hr) arrive 10:30am leave 12pm
-*  China Town (7min) arrive 12pm leave 1pm
-*  Mission Peak Trail (30min) arrive 2pm leave 4pm
-*  San Jose (1h) arrive 5pm (check-in hotel)
+*  Day 3
+*  Ramada by Wyndham, Marina start 10:00am
+*  Santa Cruz Beach Boardwalk, Santa Cruz arrive 11:00am (1hr)
+*  Stanford University, Stanford arrive 1:00pm (1hr)
+*  Buca di Beppo Italian Restaurant, 643 Emerson St, Palo Alto arrive at 2:00pm (1hr)
+*  Half Moon Bay, Half Moon Bay arrive 3:30pm (0.5hr)
+*  Point Montara Lighthouse, Montara arrive 4:30pm
+*  Twin Peaks, San Francisco arrive 5:00pm (0.5hr)
+*  Lands End Lookout, San Francisco arrive 6:00pm (0.5hr)
+*  China Beach, San Francisco arrive 7:00pm
+*  GGB Parking Zone, Golden Gate Bridge, San Francisco arrive 7:30pm (1hr)
+*  Gabrielson Park, Sausalito arrive 8:30pm
+*  In-N-Out Burger, 798 Redwood Hwy, Mill Valley arrive 9:00pm (1hr)
+*  Days Inn by Wyndam, 707 Redwood Highway, Mill Valley arrive 10:00pm
 *  *
 *  Day 4 (Aug 5)
 *  San Jose 10am start (check-out hotel)
