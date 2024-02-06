@@ -9,7 +9,7 @@
 
 ## notes  
 *  Day 1
-*  LAX airport, Los Angles 10am start
+*  LAX airport, Los Angles 10:00am start
 *  Santa Monica Pier, Santa Monica arrive 11am
 *  Ocean Front Walk, Santa Monica arrive 11am
 *  McDonalds, 22725 Pacific Coast Hwy, Malibu arrive 11:30am (1hr)
@@ -23,7 +23,7 @@
 *  Days Inn by Wyndham Santa Maria, 839 E Main St, Santa Maria arrive 8:30pm
 *  *
 *  Day 2
-*  Days Inn by Wyndham Santa Maria 10am start (check-out hotel)
+*  Days Inn by Wyndham Santa Maria 10:00am start (check-out hotel)
 *  Pismo Beach Pier, Pismo arrive 10:30am (0.5hr)
 *  Gum Alley, San Luis Obispo arrive 11:00am (0.5hr)
 *  Morro Bay Pier, Morro Bay arrive 12:00pm
@@ -44,7 +44,7 @@
 *  Ramada by Wyndham, 323 Reservation Road, Marina arrive 9:30pm
 *  *
 *  Day 3
-*  Ramada by Wyndham, Marina start 10:00am
+*  Ramada by Wyndham, Marina start 10:00am (check-out hotel)
 *  Santa Cruz Beach Boardwalk, Santa Cruz arrive 11:00am (1hr)
 *  Stanford University, Stanford arrive 1:00pm (1hr)
 *  Buca di Beppo Italian Restaurant, 643 Emerson St, Palo Alto arrive at 2:00pm (1hr)
@@ -58,14 +58,28 @@
 *  In-N-Out Burger, 798 Redwood Hwy, Mill Valley arrive 9:00pm (1hr)
 *  Days Inn by Wyndam, 707 Redwood Highway, Mill Valley arrive 10:00pm
 *  *
-*  Day 4 (Aug 5)
-*  San Jose 10am start (check-out hotel)
-*  Alhambra, California (6h) arrive 5pm (check-in hotel)
+*  Day 4
+*  Days Inn by Wyndam, Mill Valley start 10:00am (check-out hotel)
+*  Muir Wood National Monument, Mill Valley arrive 10:30am (2hr)
+*  Palace of Fine Arts, San Francisco arrive 1:00pm (0.5hr)
+*  Lombard Street, San Francisco arrive 1:30pm
+*  Pier 39 Parking Garage, Beach St &, Stockton St, San Francisco arrive 1:30pm (2hr)
+*  Powell & Hyde Cable Car Turntable, Powell-Hyde Cable Car, San Francisco arrive 4:00pm
+*  Chinese Historical Society of America Museum, 965 Clay St, San Francisco arrive 4:30pm (1hr)
+*  Cable Car Turnaround Powell St, Powell St, San Francisco arrive 5:30pm
+*  Union Square, San Francisco arrive 6:00pm (0.5hr)
+*  Mission Peak Trail Head, 680 Stanford Ave, Fremont arrive arrive 8:00pm
+*  Tesla, 45500 Fremont Blvd, Fremont arrive 8:30pm
+*  Mayflower Seafood Restaurant, 428 Barber Ln, Milpitas arrive 9:00pm
+*  Days Inn by Wyndham Fremont, 46101 Warm Springs Blvd, Fremont arrive 10:00pm
 *  *
-*  Day 5 (Aug 6)
-*  Alhambra, California 9am start
-*  Universal Studios Hollywood (30min) arrive 9:30am leave 8:30pm
-*  Alhambra, California (30min) 9pm
+*  Day 5
+*  Days Inn by Wyndham Fremont, Fremont 10:00am start (check-out hotel)
+*  Wendy's, 393 E 10th St, Gilroy arrive 11:00 (1hr)
+*  Garlic World, 4800 Monterey Highway, Gilroy arrive 12:00pm
+*  Bravo Farms, 33341 Bernard Dr, Kettleman City arrive 2:00pm
+*  Tejon Ranch, at Tejon Pkwy, 5701 Outlets at Tejon Pkwy 3:30pm (1hr)
+*  Alhambra, California arrive 5:00pm
 *  *
 *  Day 6 (Aug 7)
 *  Alhambra, California 9am start
