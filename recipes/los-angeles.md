@@ -23,11 +23,25 @@
 *  Days Inn by Wyndham Santa Maria, 839 E Main St, Santa Maria arrive 8:30pm
 *  *
 *  Day 2 (Aug 3)
-*  Monterey 10am start (check-out hotel)
-*  Big Sur (1h) arrive 11am leave 2pm
-*  Santa Cruz (2h) arrive 4pm leave 5pm
-*  Golden Gate Bridge (2h) arrive 6pm leave 8pm
-*  Sausalito (9min) arrive 10pm (check-in hotel)
+*  Days Inn by Wyndham Santa Maria 10am start (check-out hotel)
+*  Pismo Beach Pier, Pismo arrive 10:30am (0.5hr)
+*  Gum Alley, San Luis Obispo arrive 11:00am (0.5hr)
+*  Morro Bay Pier, Morro Bay arrive 12:00pm
+*  Morro Rock, Morro Bay arrive 12:00pm (0.5hr)
+*  Moonstone Beach, Cambria arrive 1:00pm (0.5hr)
+*  Moonstone Beach Bar & Grill, 6550 Moonstone Beach Dr, Cambria arrive 1:30pm (1hr)
+*  Hearst Castle Parking Lot, San Simeon arrive 2:30pm (1hr)
+*  Elephant Seal Vista Point, San Simeon arrive 3:30pm (0.5hr)
+*  Ragged Point, San Simeon arrive 4:00pm
+*  McWay Falls, Big Sur arrive 5:00pm
+*  Pfeiffer Beach, Big Sur arrive 5:30pm (1hr)
+*  Point Sur Lighthouse, Monterery arrive 6:00pm
+*  Bixby Bridge Vista Point, Monterery arrive 6:30pm
+*  Point Lobos Parking Lot, Monterery arrive 7:00pm
+*  Chopstix Vietnamese Restaurant, 26135 Carmel Rancho Blvd Suite D-2A, Carmel-By-The-Sea arrive arrive 7:30pm (1hr)
+*  17 Mile Drive, Pebble Beach arrive 8:30pm
+*  Monterey Bay Aquarium/Cannery Row, Monterey arrive 9:00pm
+*  Ramada by Wyndham, 323 Reservation Road, Marina arrive 9:30pm
 *  *
 *  Day 3 (Aug 4)
 *  Sausalito 10am start (check-out hotel)
