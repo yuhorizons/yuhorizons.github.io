@@ -79,40 +79,40 @@
 *  Garlic World, 4800 Monterey Highway, Gilroy arrive 12:00pm
 *  Bravo Farms, 33341 Bernard Dr, Kettleman City arrive 2:00pm
 *  Tejon Ranch, at Tejon Pkwy, 5701 Outlets at Tejon Pkwy 3:30pm (1hr)
-*  Alhambra, California arrive 5:00pm
+*  Days Inn by Wyndham, 15 North First St, Alhambra arrive 5:00pm
 *  *
-*  Day 6 (Aug 7)
+*  Day 6
 *  Alhambra, California 9am start
 *  Petersen Automotive Museum (30min) arrive 9:30am leave 1pm
 *  Santa Monica Pier (30min) arrive 1:30am leave 4pm
 *  Venice Beach (9min) arrive 4m leave 6pm
 *  Alhambra, California (30min) 7pm
 *  * 
-*  Day 7 (Aug 8)
+*  Day 7
 *  Alhambra, California 9am start
 *  Disneylan Park (30min) arrive 9:30am leave 8:30pm
 *  Alhambra, California (30min) 9pm
 *  *
-*  Day 8 (Aug 9)
+*  Day 8
 *  Alhambra, California 9am start
 *  Griffith Observatory (30min) arrive 9:30am leave 1pm
 *  Chinese Theatre and Hollywood Walk of Fame (30min) arrive 1:30pm leave 4pm
 *  Rodeo Drive (30min) arrive at 4:30pm leave 6pm
 *  Alhambra, California (30min) 7pm
 *  *
-*  Day 9 (Aug 10)
+*  Day 9
 *  Alhambra, California 9am start
 *  Warner Bros Studio Tour (30min) arrive at 9:30pm leave 2pm 
 *  California Science Center (30min) arrive 2:30pm leave 6pm
 *  Alhambra, California (30min) 7pm
 *  *
-*  Day 10 (Aug 11)
+*  Day 10
 *  Alhambra, California 9am start
 *  Open
 *  *
-*  Day 11 (Aug 12)
+*  Day 11
 *  Alhambra, California 6am start (check-out hotel)
-*  LAX (1hr) arrive 7am
+*  Budget Car Rental, 9775 Airport Blvd, Los Angeles arrive 7am
 *  
 
 ## based on  
