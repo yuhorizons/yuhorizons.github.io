@@ -8,11 +8,19 @@
 2. LA->Markham
 
 ## notes  
-*  Day 1 (Aug 2)
-*  LAX 10am start
-*  Santa Barbara (3h) arrive 1pm leave 2pm
-*  Hearst Castle (3h) arrive 6pm leave 7pm
-*  Monterey (3h) arrive 10pm (check-in hotel)
+*  Day 1
+*  LAX airport, Los Angles 10am start
+*  Santa Monica Pier, Santa Monica arrive 11am
+*  Ocean Front Walk, Santa Monica arrive 11am
+*  McDonalds, 22725 Pacific Coast Hwy, Malibu arrive 11:30am (1hr)
+*  Malibu Pier, Malibu arrive 12:30am (0.5hr)
+*  Zuma Beach, Malibu arrive 1:30pm (0.5hr)
+*  El Matador State Beach, Malibu Malibu arrive 2:00pm
+*  Santa Barbara County Courthouse, Santa Barbara arrive 3:30pm (0.5hr) closes at 4pm
+*  Stearns Wharf, Santa Barbara arrive 4:00pm (1hr)
+*  Solvang Visitor Center, Solvang arrive 6:00pm (1hr)
+*  Subway, 270 E Hwy 246 Unit 103, Buellton arrive 7:00pm (1hr)
+*  Days Inn by Wyndham Santa Maria, 839 E Main St, Santa Maria arrive 8:30pm
 *  *
 *  Day 2 (Aug 3)
 *  Monterey 10am start (check-out hotel)
