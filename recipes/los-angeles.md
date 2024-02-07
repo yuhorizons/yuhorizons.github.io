@@ -60,7 +60,8 @@
 *  *
 *  Day 4
 *  Days Inn by Wyndam, Mill Valley start 10:00am (check-out hotel)
-*  Muir Wood National Monument, Mill Valley arrive 10:30am (2hr)
+*  Muir Wood National Monument, Mill Valley arrive 10:30am (1hr)
+*  In-N-Out Burger, 798 Redwood Hwy, Mill Valley arrive 12:00pm (1hr)
 *  Palace of Fine Arts, San Francisco arrive 1:00pm (0.5hr)
 *  Lombard Street, San Francisco arrive 1:30pm
 *  Pier 39 Parking Garage, Beach St &, Stockton St, San Francisco arrive 1:30pm (2hr)
