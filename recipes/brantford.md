@@ -15,7 +15,7 @@
 9. 460 Fairview Dr. at 8:30pm
 10. .
 11. Day 2
-12. 
+12. https://www.google.com/maps/d/u/0/viewer?mid=1kdF94A5uTqy05QIvQdO4V6KueKGsD-Ix&femb=1&ll=43.15277973318272%2C-80.27482305000002&z=13 
 
 ## notes  
 *  
