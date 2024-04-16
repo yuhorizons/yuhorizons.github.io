@@ -12,10 +12,13 @@
 6. Simply Scoops icecream 38 Robinson St. at 3:30pm
 7. Port Burwell beach 1-3 Robinson St. at 4:00pm
 8. Long Point Provincial Park at 6:00pm
-9. 460 Fairview Dr. at 8:30pm
+9. Days's Inn 460 Fairview Dr. at 8:30pm
 10. .
 11. Day 2
-12. Brantford 
+12. Brantford 90 Market St. at 10:00am
+13. Caledonia - Lafortune Park at 12:00pm
+14. Wally Parr Sausage at 1:00pm
+15. Brantford - Yong Great Wall Buffet at 6:00pm
 
 ## notes  
 *  
