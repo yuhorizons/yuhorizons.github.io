@@ -30,7 +30,6 @@
 *  Morro Rock, Morro Bay arrive 12:00pm (0.5hr)
 *  Moonstone Beach, Cambria arrive 1:00pm (0.5hr)
 *  Moonstone Beach Bar & Grill, 6550 Moonstone Beach Dr, Cambria arrive 1:30pm (1hr)
-*  Hearst Castle Parking Lot, San Simeon arrive 2:30pm (1hr)
 *  Elephant Seal Vista Point, San Simeon arrive 3:30pm (0.5hr)
 *  Santa Cruz Beach Boardwalk, Santa Cruz 7:00pm (1h)
 *  Extended Stay America - Oakland - Alameda Airport, 1260 S Loop Rd, Alameda 9:30pm 
