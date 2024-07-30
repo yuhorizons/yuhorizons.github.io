@@ -107,5 +107,5 @@
 
 ## based on  
 *  Day1 map https://maps.app.goo.gl/K6cyuebXgSquxbnq6 
-*  
+*  Day2 map https://maps.app.goo.gl/tFXeiSrgS1enh9XC6 
 *  
