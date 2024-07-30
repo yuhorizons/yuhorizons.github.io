@@ -39,7 +39,7 @@
 *  GGB Parking Zone, Golden Gate Bridge, San Francisco
 *  Muir Wood National Monument, Mill Valley
 *  In-N-Out Burger, 798 Redwood Hwy, Mill Valley
-*  Palace of Fine Arts, San Francisco arrive
+*  Palace of Fine Arts, San Francisco
 *  Lombard Street, San Francisco
 *  Pier 39 Parking Garage, Beach St &, Stockton St, San Francisco
 *  Powell & Hyde Cable Car Turntable, Powell-Hyde Cable Car, San Francisco
