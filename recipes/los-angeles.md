@@ -107,6 +107,6 @@
 *  Terminal 6 boarding
 
 ## based on  
-*  Day1 map https://maps.app.goo.gl/6BEVCsfrXnTDpQps6 
+*  Day1 map https://maps.app.goo.gl/K6cyuebXgSquxbnq6 
 *  
 *  
