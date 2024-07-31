@@ -72,8 +72,8 @@
 *  Day 6
 *  Alhambra, California 9am start
 *  Petersen Automotive Museum (30min) arrive 9:30am leave 1pm
-*  Hollywood walk of fame
 *  Rodeo Drive
+*  Hollywood walk of fame
 *  Griffith Obervatory
 *  Alhambra, California
 *  Dinner with May & family
@@ -111,4 +111,10 @@
 *  Day2 map https://maps.app.goo.gl/tFXeiSrgS1enh9XC6 Option-1 https://maps.app.goo.gl/k7Uu7JRwQ74a34HJA Option-2 https://maps.app.goo.gl/MGfCyvzVdixMvUi68 
 *  Day3 map https://maps.app.goo.gl/oqS6Ya4HMYTzoeTm7 
 *  Day4 map https://maps.app.goo.gl/9Dw8oVZxpPYJu1SR6 
-*  Day5 map https://maps.app.goo.gl/nR3ryJdRJSU1oZRP8 
+*  Day5 map https://maps.app.goo.gl/nR3ryJdRJSU1oZRP8
+*  Day6 map https://maps.app.goo.gl/q2j6vKcvzKERi2FX9
+*  Day7 map https://maps.app.goo.gl/Zxm5PVcoMe61SLqS9
+*  Day8 map https://maps.app.goo.gl/tekB17kYGnU31g2d8
+*  Day9 map
+*  Day10 map
+*  Day11 map https://maps.app.goo.gl/QC4F5uc7tGK6t5gi8
