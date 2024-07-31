@@ -8,7 +8,7 @@
 2. LA->Markham
 
 ## notes  
-*  Day 1
+*  Day 1 =========
 *  LAX airport, Los Angles 10:00am start
 *  Santa Monica Pier, Santa Monica arrive 11am
 *  Ocean Front Walk, Santa Monica arrive 11am
@@ -22,7 +22,7 @@
 *  Subway, 270 E Hwy 246 Unit 103, Buellton arrive 7:00pm (1hr)
 *  Days Inn by Wyndham Santa Maria, 839 E Main St, Santa Maria arrive 8:30pm
 *  *
-*  Day 2
+*  Day 2 =========
 *  Days Inn by Wyndham Santa Maria 10:00am start (check-out hotel)
 *  Pismo Beach Pier, Pismo arrive 10:30am (0.5hr)
 *  Gum Alley, San Luis Obispo arrive 11:00am (0.5hr)
@@ -35,7 +35,7 @@
 *  Stanford University if have time, if not, then skip
 *  Extended Stay America - Oakland - Alameda Airport, 1260 S Loop Rd, Alameda 9:30pm 
 *  *
-*  Day 3
+*  Day 3 ==========
 *  Extended Stay America - Oakland - Alameda Airport start 10:00am
 *  GGB Parking Zone, Golden Gate Bridge, San Francisco
 *  Muir Wood National Monument, Mill Valley
@@ -50,7 +50,7 @@
 *  Dinner with Rene's family.
 *  Extended Stay America - Oakland - Alameda Airport
 *  *
-*  Day 4
+*  Day 4 ==========
 *  Extended Stay America - Oakland - Alameda Airport start 10:00am
 *  Twin Peaks
 *  Stanford University
@@ -58,7 +58,7 @@
 *  Dinner with Lily's family
 *  Extended Stay America - Oakland - Alameda Airport
 *  *
-*  Day 5
+*  Day 5 ===========
 *  Extended Stay America - Oakland - Alameda Airport 10:00am start (check-out hotel)
 *  Mission Peak Trail Head, 680 Stanford Ave, Fremont arrive arrive 10:30am (1hr)
 *  Tesla, 45500 Fremont Blvd, Fremont arrive 11:30am
@@ -69,7 +69,7 @@
 *  Days Inn by Wyndham, 15 North First St, Alhambra arrive 5:00pm
 *  Dinner with May & family
 *  *
-*  Day 6
+*  Day 6 ============
 *  Alhambra, California 9am start
 *  Petersen Automotive Museum (30min) arrive 9:30am leave 1pm
 *  Rodeo Drive
@@ -78,29 +78,29 @@
 *  Alhambra, California
 *  Dinner with May & family
 *  * 
-*  Day 7
+*  Day 7 ============
 *  Alhambra, California 9am start
 *  Disneyland Park 
 *  Alhambra, California
 *  Dinner with May & family
 *  *
-*  Day 8
+*  Day 8 =============
 *  Alhambra, California 9am start
 *  Universal Studios
 *  Alhambra, California
 *  Dinner with May & family
 *  *
-*  Day 9
+*  Day 9 =============
 *  Alhambra, California 9am start
 *  Open
 *  Dinner with May & family
 *  *
-*  Day 10
+*  Day 10 ==============
 *  Alhambra, California 9am start
 *  Open
 *  Dinner with May & family
 *  *
-*  Day 11
+*  Day 11 ==============
 *  Wake up at 5am
 *  Alhambra, California 6am start (check-out hotel)
 *  Budget Car Rental, 9775 Airport Blvd, Los Angeles arrive 7am
