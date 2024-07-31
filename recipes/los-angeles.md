@@ -32,6 +32,7 @@
 *  Moonstone Beach Bar & Grill, 6550 Moonstone Beach Dr, Cambria arrive 1:30pm (1hr)
 *  Elephant Seal Vista Point, San Simeon arrive 3:30pm (0.5hr)
 *  Santa Cruz Beach Boardwalk, Santa Cruz 7:00pm (1h)
+*  Stanford University if have time, if not, then skip
 *  Extended Stay America - Oakland - Alameda Airport, 1260 S Loop Rd, Alameda 9:30pm 
 *  *
 *  Day 3
@@ -107,7 +108,7 @@
 
 ## based on  
 *  Day1 map https://maps.app.goo.gl/1tW6EMMyYcJ8Xvex9 https://www.youtube.com/watch?v=cwRyzwVZs5s 
-*  Day2 map https://maps.app.goo.gl/tFXeiSrgS1enh9XC6 
+*  Day2 map https://maps.app.goo.gl/tFXeiSrgS1enh9XC6 Option-1 https://maps.app.goo.gl/k7Uu7JRwQ74a34HJA Option-2 https://maps.app.goo.gl/MGfCyvzVdixMvUi68 
 *  Day3 map https://maps.app.goo.gl/oqS6Ya4HMYTzoeTm7 
 *  Day4 map https://maps.app.goo.gl/9Dw8oVZxpPYJu1SR6 
 *  Day5 map https://maps.app.goo.gl/nR3ryJdRJSU1oZRP8 
