@@ -12,7 +12,7 @@
 6. Alexandria
 7. Fargo
 8. Minot
-9. Estevan
+9. Estevan-Sleep
 10. Moose Jaw
 11. Swift Current
 12. Medicine Hat
