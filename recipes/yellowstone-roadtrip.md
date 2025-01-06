@@ -1,7 +1,7 @@
 # Yellowstone Roadtrip  
 
 ## info  
-* Toronto->Chicago->Yellowston->Calgary
+* Toronto->Chicago->Yellowstone->Calgary
 
 ## steps  
 1. Chicago
