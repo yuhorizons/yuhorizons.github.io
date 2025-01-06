@@ -14,6 +14,7 @@
 7. Mount Rushmore National Memorial
 8. Deadwood South Dakota
 9. Yellowstone National Park
+10. Calgary
 
 ## notes  
 *  
