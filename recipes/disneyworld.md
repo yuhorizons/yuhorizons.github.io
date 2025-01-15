@@ -5,7 +5,7 @@
 
 ## steps  
 1. Toronto->Gatlingburg->Disneyworld
-2. Disneyworld->Charleston->Toronto
+2. Disneyworld->Savannah->Charleston->Toronto
 
 ## notes  
 *  Anakeesta, Gatlinburg
