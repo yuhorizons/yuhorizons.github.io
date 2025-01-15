@@ -11,7 +11,7 @@
 *  Anakeesta, Gatlinburg
 *  Titanic Museum, Gatlinburg
 *  The Greystone Lodge On The River, Gatlinburg
-*  Hilton Vacation Club Mystic Dunes Orlando, Orlando
+*  Hilton Vacation Club Mystic Dunes Orlando
 *  Disneyworld
 *  Universal Studios Florida
 *  John F. Kennedy Space Center
