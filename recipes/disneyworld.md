@@ -15,7 +15,7 @@
 *  Disneyworld
 *  Universal Studios Florida
 *  John F. Kennedy Space Center
-*  Savannah
+*  Savannah, Georgia
 *  Charleston, South Carolina
 *  Holiday Inn Express Hillsville
 
