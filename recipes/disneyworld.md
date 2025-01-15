@@ -14,7 +14,7 @@
 *  Hilton Vacation Club Mystic Dunes Orlando
 *  Disneyworld
 *  Universal Studios Florida
-*  John F. Kennedy Space Center
+*  Kennedy Space Center Florida
 *  Savannah, Georgia
 *  Charleston, South Carolina
 *  Holiday Inn Express Hillsville
