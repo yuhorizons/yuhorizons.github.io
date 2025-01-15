@@ -8,10 +8,10 @@
 2. Disneyworld->Charleston->Toronto
 
 ## notes  
-*  Anakeesta
-*  Titanic Museum
-*  The Greystone Lodge On The River
-*  Hilton Vacation Club Mystic Dunes Orlando
+*  Anakeesta, Gatlinburg
+*  Titanic Museum, Gatlinburg
+*  The Greystone Lodge On The River, Gatlinburg
+*  Hilton Vacation Club Mystic Dunes Orlando, Orlando
 *  Disneyworld
 *  Universal Studios Florida
 *  John F. Kennedy Space Center
