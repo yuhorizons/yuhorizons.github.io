@@ -8,6 +8,7 @@
 2. Disneyworld->Savannah->Charleston->Toronto
 
 ## notes  
+*  Kentucky Fried Chicken Historic Sign, 689 US-25W, Corbin, KY 40701, United States
 *  Anakeesta, Gatlinburg
 *  Titanic Museum, Gatlinburg
 *  The Greystone Lodge On The River, Gatlinburg
