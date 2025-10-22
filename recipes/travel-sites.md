@@ -10,4 +10,4 @@
 *  
 
 ## based on  
-*  Cheap flight deals https://www.yyzdeals.com/
+*  Cheap flight deals https://www.yyzdeals.com/ 
