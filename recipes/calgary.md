@@ -19,6 +19,13 @@
 13. Calgary (8 hr drive from Regina) 
 
 ## notes  
+*  Winnie The Pooh Park
+*  Max the Moose
+*  Centre of Canada
+*  World's largest Coca Cola Can
+*  Mac the Moose
+*  Indian Head
+*  World's Largest Dinosaur
 *  
 
 ## based on  
