@@ -33,10 +33,14 @@
 *  Fairmont Le Château Frontenac
 *  .
 *  Moncton
+*  The Pink Church Boutique
 *  Hopewell Rocks
-*  Bay of Fundy
 *  Magnetic hill
 *  Shediac (bigest lobster)
+*  .
+*  PEI
+*  Anne of Green Gables
+*  Charlottetown
   
 
 ## based on  
