@@ -19,13 +19,34 @@
 13. Calgary (8 hr drive from Regina) 
 
 ## notes  
-*  Winnie The Pooh Park
-*  Max the Moose
-*  Centre of Canada
-*  World's largest Coca Cola Can
-*  Mac the Moose
-*  Indian Head
-*  World's Largest Dinosaur
+*  Tobomory
+*  Chi Cheemaun Ferry (Tobomory)
+*  Bridal Veil Falls (Manitoulin Island)
+*  Little Current (Manitoulin Island)
+*  Sault Ste. Marie
+*  Original Giant Wawa Goose (Wawa)
+*  Winnie The Pooh Park (White River)
+*  Terry Fox Monument and Statue (Thunder Bay)
+*  Ignace
+*  Max the Moose (Dryden)
+*  Kenora
+*  Whiteshell
+*  Travel Manitoba (HWY1 Manitoba)
+*  Centre of Canada (Taché)
+*  Winnipeg
+*  World's largest Coca Cola Can (Portage la Prairie)
+*  Welcome to Saskatchewan Sign (HWY1 Fleming)
+*  Indian Head (Indian Head)
+*  Regina
+*  Mac the Moose (Moose Jaw)
+*  Swift Current
+*  Welcome to Alberta Sign (HWY1 Walsh)
+*  Saamis Teepee (Medicine Hat)
+*  World's Largest Dinosaur (Drumheller)
+*  Drumheller Little Church (Drumheller)
+*  Calgary
+*  Banff
+*  Lake Louise
 *  
 
 ## based on  
