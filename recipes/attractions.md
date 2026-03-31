@@ -4,7 +4,7 @@
 * 
 
 ## steps  
-1. K
+1. 
 
 ## notes  
 *  
