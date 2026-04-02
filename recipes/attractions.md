@@ -10,5 +10,6 @@
 *  
 
 ## based on  
-*  Kelso Lavender Farm - https://kelsolavender.com/ 
+*  Kelso Lavender Farm - https://kelsolavender.com/
+*  Flowerpot Island - https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/flowerpot
 
