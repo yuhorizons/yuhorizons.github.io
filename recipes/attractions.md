@@ -14,7 +14,7 @@
 *  Flowerpot Island - https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/flowerpot 
 *  Tobomory - https://www.facebook.com/reel/1679391030152666 
 *  Quebec - https://www.facebook.com/reel/1646825086457577 https://www.facebook.com/reel/1902714973781830 
-*  Hopewell rocks - 
+*  Hopewell rocks - https://www.facebook.com/reel/1454490299457660 
 *  PEI - https://www.facebook.com/reel/814631605009592  
 *  
 *  
