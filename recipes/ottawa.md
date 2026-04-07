@@ -20,6 +20,12 @@
 1. 
 
 ## notes  
+*  Joey Rideau, Ottawa
+*  A&W, Perth
+*  The Hungry 7, Perth
+*  McDonald's, Madoc
+*  Woody Burger, Havelock
+*  The Ranch, Havelock
 *  
 
 ## based on  
