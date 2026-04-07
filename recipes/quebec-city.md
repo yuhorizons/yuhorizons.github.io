@@ -13,7 +13,11 @@
 7. 
 
 ## notes  
-*  
+*  Restaurant La Buche, 49 Rue Saint-Louis, Québec
+*  Restaurant Poutineville Vieux, 810 Boulevard Honoré-Mercier
+*  L'Antiquaire Buffet, 95 Rue Saint-Paul, Québec,
+*  Le Bureau de Poste, 296 Rue Saint-Joseph E, La Cité-Limoilou
+*  Cochon Dingue Champlain, 46 Bd Champlain, Québec
 
 ## based on  
 *  
