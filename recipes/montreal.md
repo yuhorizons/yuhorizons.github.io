@@ -16,6 +16,8 @@
 
 ## notes  
 *  Nouilles de Lan Zhou (Chinatown)
+*  Fairmount Bagels (74 Av. Fairmount O)
+*  St-Viateur Bagels (263 Saint Viateur St. West)
 
 ## based on  
 *  
