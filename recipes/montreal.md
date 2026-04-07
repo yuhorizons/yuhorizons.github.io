@@ -16,6 +16,7 @@
 
 ## notes  
 *  Nouilles de Lan Zhou (Chinatown)
+*  Schwartz's Deli (Montreal smoked meat), 3895 Boul. Saint-Laurent, Montréal 
 *  Fairmount Bagels (74 Av. Fairmount O)
 *  St-Viateur Bagels (263 Saint Viateur St. West)
 
